@@ -2,7 +2,7 @@
 Contributors: Dave Zaikos
 Donate link: http://www.zaikos.com/blog/#support-this-site
 Tags: twitter, tweets, sidebar, widget, simple
-Requires at least: 2.5
+Requires at least: 2.8
 Tested up to: 2.8.2
 Stable tag: 1.0
 
