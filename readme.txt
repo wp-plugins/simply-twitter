@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Dave Zaikos
-Donate link: http://www.zaikos.com/blog/#support-this-site
+Donate link: http://www.zaikos.com/donate/
 Tags: twitter, tweets, sidebar, widget, simple
 Requires at least: 2.8
 Tested up to: 2.8.4
