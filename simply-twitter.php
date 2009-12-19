@@ -1,7 +1,7 @@
 <?php 
 /*  
 Plugin Name: Simply Twitter
-Plugin URI: http://www.zaikos.com/blog/wp-plugins/simply-twitter/
+Plugin URI: http://www.zaikos.com/wp-plugins/simply-twitter/
 Version: 1.0
 Author: <a href="http://www.zaikos.com/blog/">Dave Zaikos</a>
 Description: Adds a simple Twitter widget to the sidebar.

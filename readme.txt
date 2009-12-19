@@ -3,7 +3,7 @@ Contributors: Dave Zaikos
 Donate link: http://www.zaikos.com/donate/
 Tags: twitter, tweets, sidebar, widget, simple
 Requires at least: 2.8
-Tested up to: 2.8.4
+Tested up to: 2.9
 Stable tag: 1.0
 
 Adds a simple Twitter widget to the sidebar.
